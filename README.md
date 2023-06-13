@@ -1,5 +1,5 @@
 # dormitory management system
-#prerequistes
+# prerequistes
 -javaIDE
 -configure JDk
 -basic knowledge on java
